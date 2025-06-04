@@ -14,8 +14,7 @@ Ini adalah program Python sederhana yang bisa melakukan empat operasi matematika
 
 ## 💻 Contoh Output
 
-<pre> 
-==================== 
+<pre> ==================== 
 Kalkulator Sederhana 🐍
   1. Penjumlahan [+] 
   2. Pengurangan [-] 
