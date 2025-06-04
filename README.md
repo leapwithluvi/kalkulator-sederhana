@@ -7,11 +7,6 @@ Ini adalah program Python sederhana yang bisa melakukan empat operasi matematika
 - Perkalian
 - Pembagian
 
-## Cara Menjalankan
-
-1. Pastikan Python sudah terinstal.
-2. Jalankan program dengan perintah:
-
 ## 💻 Contoh Output
 
 <pre>==================== 
