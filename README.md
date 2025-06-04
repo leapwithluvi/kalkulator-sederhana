@@ -29,5 +29,10 @@ Hasil perkalian dari 7 x 6 adalah : 42
 ==================== 
 </pre>
 
+## 📦 Cara Menjalankan
+
+1. Pastikan Python sudah terinstall di sistemmu.
+2. Jalankan file Python:
+
 ```bash
 python kalkulator_sederhana.py
