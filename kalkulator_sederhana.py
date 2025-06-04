@@ -1,5 +1,5 @@
 print('=' * 20)
-print("Kalkulator Sederhana 🐍")
+print("Kalkulator Sederhana 🐍 ")
 print("  1. Penjumlahan [+]") 
 print("  2. Pengurangan [-]") 
 print("  3. Perkalian   [*]") 
